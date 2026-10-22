@@ -1,0 +1,19 @@
+# 密钥与环境变量（绝对不能提交）
+.env
+*.env
+
+# Python
+  __pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db

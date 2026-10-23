@@ -33,18 +33,20 @@ pip install openai python-dotenv
 
 ### 配置 API Key
 
- ```bash
-  cd 01-chatbot
-  cp .env.example .env
+```bash
+cd 01-chatbot
+cp .env.example .env
+```
 
-  然后打开 .env，把 your_api_key_here 换成你自己的 Key。
+然后打开 `.env`，把 `your_api_key_here` 换成你自己的 Key。
 
-  ▎ .env 已被 .gitignore 忽略，不会被提交。
+> `.env` 已被 `.gitignore` 忽略，不会被提交。
 
-  运行
+### 运行
 
-  python chat2.py
-
+```bash
+python chat2.py
+```
 
 ## 目录结构
 
@@ -110,4 +112,4 @@ ai-agent-learning/
 ## 关于
 
 
-二本计算机软件工程专业，毕业后从事其他行业工作，2026 年10月开始系统学习 AI Agent 开发，目标转向 AI 应用开发岗位。
+二本计算机软件工程专业，26年毕业后从事其他行业工作，2026 年10月开始系统学习 AI Agent 开发，目标转向 AI 应用开发岗位。

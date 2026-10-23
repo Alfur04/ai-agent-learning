@@ -3,7 +3,7 @@
 *.env
 
 # Python
-  __pycache__/
+__pycache__/
 *.py[cod]
 
 # 虚拟环境
